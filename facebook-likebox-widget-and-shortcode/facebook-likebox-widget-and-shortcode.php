@@ -6,7 +6,7 @@
 Plugin Name: Profile Box Shortcode And Widget
 Plugin URI: https://awplife.com/
 Description: A WordPress Social Media Plugin To Show Facebook Likebox
-Version: 1.2.2
+Version: 1.2.3
 Author: A WP Life
 Author URI: https://awplife.com/
 License: GPLv2 or later

@@ -3,8 +3,8 @@ Contributors: awordpresslife
 Donate link: https://paypal.me/awplife
 Tags: like box, facebook likebox widget, like Button, Share Button, Mini profile box
 Requires at least: 7.0
-Tested up to: 6.8
-Stable tag: 1.2.2
+Tested up to: 6.9
+Stable tag: 1.2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -97,8 +97,12 @@ Please post your question on plugin support forum
 
 == Changelog ==
 
+= 1.2.3 =
+* Tested for WordPress 6.9
+
 = 1.2.2 =
 * Plugin and readme update
+* Tested for WordPress 6.8.3
 
 = 1.2.1 =
 * Fixed vulnerability issue.
